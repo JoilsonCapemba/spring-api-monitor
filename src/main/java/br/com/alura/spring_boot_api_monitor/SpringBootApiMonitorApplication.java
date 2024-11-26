@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Configuration;
 
+//Esatas configurações ou anotações são para habilitar o admin das apis
+
 @SpringBootApplication
 @EnableAdminServer
 @Configuration
